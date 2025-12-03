@@ -6,7 +6,7 @@
 
 **The Unique Angle:** This project was built by a **Frontend Engineer with a background as a Certified Accountant**. It addresses the common disconnect between technical implementation and financial logic, ensuring data accuracy, proper ledger formatting, and accountant-friendly features.
 
-🔗 **Live Demo:** [text](https://ledger-lens-seven.vercel.app/)
+🔗 **Live Demo:** [LedgerLens](https://ledger-lens-seven.vercel.app/)
 
 ---
 
