@@ -91,7 +91,7 @@ export default function Dashboard() {
               <Activity className="h-6 w-6 text-white" />
             </div>
             <span className="font-bold text-xl tracking-tight text-gray-900">
-              DualEntry{" "}
+              LedgerLens{" "}
               <span className="text-gray-400 font-normal text-sm">Demo</span>
             </span>
           </div>
